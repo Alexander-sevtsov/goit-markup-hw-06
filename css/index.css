@@ -4,3 +4,10 @@
 @import './base/container.css';
 
 @import './layout/header.css';
+@import './layout/hero.css';
+@import './layout/modal-window.css';
+@import './layout/team-section.css';
+@import './layout/gallery-section.css';
+@import './layout/footer-section.css';
+@import './layout/feature-section.css';
+@import './layout/customers-section.css';
