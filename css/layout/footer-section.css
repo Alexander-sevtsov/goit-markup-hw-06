@@ -154,6 +154,12 @@
   }
 }
 
+@media screen and (max-width: 319px) {
+  .footer-form-input {
+    width: 290px;
+  }
+}
+
 @media screen and (min-width: 768px) and (max-width: 1157px) {
   .footer-logo {
     display: inline-block;
@@ -195,6 +201,7 @@
     display: flex;
     flex-direction: column;
     align-items: baseline;
+    width: 584px;
   }
 
   .footer-logo-wrapper {

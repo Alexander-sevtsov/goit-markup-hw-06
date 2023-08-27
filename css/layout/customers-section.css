@@ -57,6 +57,10 @@
     padding-bottom: 96px;
   }
 
+  .customers-wrapper {
+    width: 584px;
+  }
+
   .customers-title {
     color: var(--navyblue);
     text-align: center;
